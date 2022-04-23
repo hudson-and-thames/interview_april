@@ -1,4 +1,4 @@
-# Skill Set Challenge!
+# Skillset Challenge!
 [Hudson & Thames](https://hudsonthames.org/) has provided the following skillset challenge as part of our April 2022 intake for a junior data scientist or machine learning engineer.
 
 <div align="center">

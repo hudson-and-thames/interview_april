@@ -10,10 +10,6 @@ The following assignment is an opportunity for you to highlight your skillset an
 
 ### Briefing
 
-<div align="center">
-  <img src="https://hudsonthames.org/wp-content/uploads/2020/09/Pairs-Selection-1.jpg" height="300"><br>
-</div>  
-
 Read the following paper: [Enhancing a Pairs Trading strategy with the application of Machine Learning](http://premio-vidigal.inesc.pt/pdf/SimaoSarmentoMSc-resumo.pdf). 
 
 Note: The following [textbook](https://www.springer.com/gp/book/9783030472504) provides a deeper explanation of the technique.
@@ -30,11 +26,15 @@ In a Jupyter Notebook (python):
 8. Invite us (research@hudsonthames.org) to your private repo so that we can evaluate your work.
 9. Bonus points if you add unit tests (in a separate .py file).
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hudson-and-thames/interview_april/master/images/clusters.jpg" height="500"><br>
+</div>  
 
 ### Notes
 * Your code for the implementation should be contained in a .py file that you import into your notebook. Please don't have large chunks of code in your notebook.
 * Save your data with your repo so that we can evaluate it.
 * Keep in mind that if you don't have enough rows of data to support the number of assets in your universe, the PCA will not be able to extract meaning full factors.
+* Candidates that have analysed previous code reviews of our skill set challenges, perform a lot better.
 
 ## Institutional - Need to Know
 * **Company Name**: Hudson and Thames Quantitative Research

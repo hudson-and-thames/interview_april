@@ -30,6 +30,11 @@ In a Jupyter Notebook (python):
   <img src="https://raw.githubusercontent.com/hudson-and-thames/interview_april/master/images/clusters.jpg" height="500"><br>
 </div>  
 
+### Due Date:
+* Friday the 29th of April 2022.
+*  We assign additional points to those that submit high quality work early on. 
+*  Don't leave it until last moment.
+
 ### Notes
 * Your code for the implementation should be contained in a .py file that you import into your notebook. Please don't have large chunks of code in your notebook.
 * Save your data with your repo so that we can evaluate it.

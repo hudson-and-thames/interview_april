@@ -21,7 +21,7 @@ In a Jupyter Notebook (python):
 3. Implement Section III: Proposed Pairs Selection Framework (A and B, Section C if you really want to impress)
 4. Create a set of functions/class for the end-user to make use of.
 5. Make sure to add docstrings and follow PEP8 code style checks. Have plenty of inline comments, good variable names and don't over complicate things unnecessarily. It should be easy for the user to make use of.
-6. Showcase your new Pairs Selection Framework in a Jupyter Notebook and show us some visualizations of the clusters and pairs.
+6. Showcase your new Pairs Selection Framework in a Jupyter Notebook and show us some visualizations of the clusters and pairs (Think Plotly and Dash).
 7. Add an introduction, body, and conclusion showcasing your new implementation. (Use the correct style headers)
 8. Invite us (research@hudsonthames.org) to your private repo so that we can evaluate your work.
 9. Bonus points if you add unit tests (in a separate .py file).
